@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="hecate/hecate.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="hecate/Program.cs">
+    <Files>
+      <File FileName="hecate/Program.cs" Line="79" Column="22" />
+      <File FileName="hecate/Combine.cs" Line="1" Column="1" />
+      <File FileName="hecate/appendall.cs" Line="1" Column="1" />
+      <File FileName="hecate/analyzer.cs" Line="54" Column="29" />
+      <File FileName="hecate/mythDownloader.cs" Line="1" Column="1" />
+      <File FileName="hecate/GridGenerator.cs" Line="1" Column="1" />
+      <File FileName="hecate/mythSortOpr.cs" Line="1" Column="1" />
+      <File FileName="hecate/mythClassifyOpr.cs" Line="7" Column="17" />
+      <File FileName="hecate/Global.cs" Line="10" Column="32" />
+      <File FileName="../mythTestR/mythTestR/Program.cs" Line="19" Column="20" />
+      <File FileName="hecate/mythResult.cs" Line="36" Column="33" />
+      <File FileName="hecate/mythKmeans.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
